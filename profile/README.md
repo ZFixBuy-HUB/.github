@@ -42,7 +42,7 @@ kolchi.ma leverages a microservices architecture to separate functionalities int
 
 
 ## Authors
-- **Ismail ZAHIR** - Software Engineer & CEO at kolchi.ma.
+- **Ismail ZAHIR** - Founder of kolchi.ma and Software Engineer.
     - [Email](mailto:ismailza407@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/ismailzahir01/)
     - [GitHub](https://www.github.com/ismailza)
